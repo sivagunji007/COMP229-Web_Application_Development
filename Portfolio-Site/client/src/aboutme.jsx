@@ -1,3 +1,11 @@
+/**
+ * File Name: aboutme.jsx
+ * Description: About Me component
+ * Student Name: Sivaprasad Gunji
+ * Student ID: 301546700
+ * Date: September 25, 2025
+ */
+
 import profilePic from './assets/sivaprasad.jpg'
 import './AboutMe.css'
 import resumePDF from './assets/sivaprasad-gunji-resume.pdf'

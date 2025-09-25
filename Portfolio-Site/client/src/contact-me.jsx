@@ -1,3 +1,12 @@
+/**
+ * File Name: contact-me.jsx
+ * Description: Contact Me component with a form
+ * Student Name: Sivaprasad Gunji
+ * Student ID: 301546700
+ * Date: September 25, 2025
+ */
+
+// === Imports and Setup ===
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Contact.css'; // Optional: for styling

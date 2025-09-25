@@ -1,3 +1,13 @@
+/**
+ * File Name: MainRouter.jsx
+ * Description: Main router component for handling routes
+ * Student Name: Sivaprasad Gunji
+ * Student ID: 301546700
+ * Date: September 25, 2025
+ */
+
+// === Imports and Setup ===
+
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from './components/Home'

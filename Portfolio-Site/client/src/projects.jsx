@@ -1,3 +1,13 @@
+/**
+ * File Name: projects.jsx
+ * Description: Projects component showcasing various projects
+ * Student Name: Sivaprasad Gunji
+ * Student ID: 301546700
+ * Date: September 25, 2025
+ */
+
+
+// === Imports and Setup ===
 import './Projects.css'; // Optional styling
 import project1Img from './assets/project1.jpg';
 import project2Img from './assets/project2.jpg';

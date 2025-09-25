@@ -1,3 +1,12 @@
+
+/**
+ * File Name: Home.jsx
+ * Student Name: Sivaprasad Gunji
+ * Student ID: 301546700
+ * Date: September 25, 2025
+ */
+
+
 export default function Home() {
     return (
     <div className="welcome-container">

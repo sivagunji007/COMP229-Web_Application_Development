@@ -1,3 +1,13 @@
+/**
+ * File Name: Layout.jsx
+ * Description: Layout component with header and navigation
+ * Student Name: Sivaprasad Gunji
+ * Student ID: 301546700
+ * Date: September 25, 2025
+ */
+
+
+// === Imports and Setup ===
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Layout.css';
