@@ -8,7 +8,7 @@
 
 
 // === Imports and Setup ===
-import './Services.css'
+import './services.css'
 
 export default function Services() {
    return (
