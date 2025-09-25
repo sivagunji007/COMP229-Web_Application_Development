@@ -12,7 +12,7 @@ const Layout = ({ children }) => {
           <h1 className="site-name">Sivaprasad Gunji</h1>
         </div>
         <nav className="layout-nav">
-          <Link to="/">Home</Link> | <Link to="/about-me">About</Link> | <Link to="/projects">Projects</Link> | <Link to="/services">Services</Link> | <Link to="/contact-me">Contact</Link>
+          <Link to="/">Home</Link> | <Link to="/about-me">About Me</Link> | <Link to="/projects">Projects</Link> | <Link to="/services">Services</Link> | <Link to="/contact-me">Contact Me</Link>
         </nav>
       </header>
       <main className="layout-content">{children}</main>

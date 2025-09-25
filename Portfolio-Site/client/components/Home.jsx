@@ -12,7 +12,7 @@ export default function Home() {
         <ul>
           <li><strong>About Me</strong> – My background, interests, and journey.</li>
           <li><strong>Projects</strong> – A showcase of my work and achievements.</li>
-          <li><strong>Skills</strong> – Technologies and tools I specialize in.</li>
+          <li><strong>Services</strong> – Technologies and tools I specialize in.</li>
           <li><strong>Contact</strong> – Let’s connect!</li>
         </ul>
       </section>
